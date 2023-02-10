@@ -1,1 +1,5 @@
 node_modules
+public/**/*.js
+.firebase
+.firebaserc
+functions/node_modules
